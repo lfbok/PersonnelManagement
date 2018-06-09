@@ -8,4 +8,4 @@
     <img src="https://raw.githubusercontent.com/330042626/-PersonnelManagement/master/core.png"/>
 
 
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=330042626&site=qq&menu=yes">有问题可以点击加我QQ</a>
+
